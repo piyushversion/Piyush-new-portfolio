@@ -12,6 +12,7 @@ import Welcome from './components/Welcome'
 function App() {
 
   useEffect(() => {
+    
     const timer = setTimeout(() => {
 
       setShowWelcome(false);
