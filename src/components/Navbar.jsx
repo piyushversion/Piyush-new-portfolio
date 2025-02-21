@@ -111,7 +111,7 @@ function Navbar() {
         />
 
         <span className="font-playwrite text-[25px] cursor-pointer dark:text-white">
-          Rahul
+          Piyush
         </span>
       </div>
 
